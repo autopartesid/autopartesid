@@ -1,0 +1,7 @@
+[0.00000] [Warning] The specified database is not empty. Overwrite?Yes 
+[0.00000] [Warning] The specified database is not empty. Overwrite?Yes 
+[6.12088] [Notice] Creating database scheme
+[12.37792] [Notice] Importing data
+[12.89196] [Notice] Creating demo
+[13.73417] [Notice] Installing additional language es
+[14.11715] [Notice] Installing additional language es
